@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-RESTful==0.3.10
+BeautifulSoup4
+Polyline
+Requests
+python-dotenv
